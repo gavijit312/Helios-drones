@@ -1,0 +1,10 @@
+data:
+  crop_dir: "data/processed/building_crops"
+  num_points: 2048
+  train_split: 0.85
+
+training:
+  batch_size: 16
+  epochs: 25
+  lr: 0.001
+  save_path: "pretrained/checkpoints/geometry_completion.pt"

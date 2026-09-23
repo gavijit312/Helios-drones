@@ -8,3 +8,7 @@ output/
 *.mp4
 *.zip
 *.tar.gz
+# Binary weights & editor settings
+*.pt
+pretrained/checkpoints/
+.vscode/
