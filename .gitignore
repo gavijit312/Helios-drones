@@ -1,0 +1,10 @@
+.venv/
+.kilo/
+data/
+data/**
+output/
+*.ply
+*.bag
+*.mp4
+*.zip
+*.tar.gz
